@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CrossCutting.Infrastructure
+namespace Codurance.Infrastructure
 {
     public class DateTimeHelper : IDateTimeHelper
     {

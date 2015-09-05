@@ -1,6 +1,8 @@
-﻿namespace Codurance.Data.Model
+﻿using Codurance.Data.Infrastructure;
+
+namespace Codurance.Data.Model
 {
-    public class User
+    public class User : Entity
     {
         public string Name { get; set; }
     }
