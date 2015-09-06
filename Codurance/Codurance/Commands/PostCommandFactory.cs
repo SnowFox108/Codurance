@@ -1,5 +1,5 @@
 ﻿using Codurance.Infrastructure;
-using Codurance.Infrastructure.Adatepter;
+using Codurance.Infrastructure.Adapter;
 using Codurance.Services;
 
 namespace Codurance.Commands

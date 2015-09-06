@@ -1,5 +1,5 @@
 ﻿
-namespace Codurance.Infrastructure.Adatepter
+namespace Codurance.Infrastructure.Adapter
 {
     public interface IDiContainerFactory
     {

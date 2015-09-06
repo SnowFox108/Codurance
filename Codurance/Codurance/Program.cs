@@ -9,7 +9,6 @@ using Codurance.Data.Infrastructure;
 using Codurance.Data.Model;
 using Codurance.Data.Repository;
 using Codurance.Infrastructure;
-using Codurance.Infrastructure.Adatepter;
 using Codurance.Services;
 using Codurance.Services.Shared;
 

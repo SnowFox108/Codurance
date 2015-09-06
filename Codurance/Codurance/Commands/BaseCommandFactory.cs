@@ -1,4 +1,4 @@
-﻿using Codurance.Infrastructure.Adatepter;
+﻿using Codurance.Infrastructure.Adapter;
 
 namespace Codurance.Commands
 {

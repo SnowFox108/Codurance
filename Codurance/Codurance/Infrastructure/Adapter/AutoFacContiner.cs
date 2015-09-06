@@ -1,6 +1,6 @@
 ﻿using Autofac;
 
-namespace Codurance.Infrastructure.Adatepter
+namespace Codurance.Infrastructure.Adapter
 {
     public class AutoFacContiner : IDiContainer
     {

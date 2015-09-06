@@ -1,5 +1,5 @@
 ﻿using Autofac;
-using Codurance.Infrastructure.Adatepter;
+using Codurance.Infrastructure.Adapter;
 
 namespace Codurance.Infrastructure.AutoFacRegister
 {

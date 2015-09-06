@@ -1,7 +1,7 @@
 ﻿using Autofac;
 using Codurance.Data.Infrastructure;
 using Codurance.Data.Repository;
-using Codurance.Infrastructure.Adatepter;
+using Codurance.Infrastructure.Adapter;
 
 namespace Codurance.Infrastructure.AutoFacRegister
 {

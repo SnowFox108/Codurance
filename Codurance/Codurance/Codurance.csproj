@@ -91,16 +91,16 @@
     <Compile Include="Data\Repository\Repository.cs" />
     <Compile Include="Data\Repository\SubscriptionRepository.cs" />
     <Compile Include="Data\Repository\UserRepository.cs" />
-    <Compile Include="Infrastructure\Adatepter\AutoFacContainerFactory.cs">
+    <Compile Include="Infrastructure\Adapter\AutoFacContainerFactory.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Infrastructure\Adatepter\AutoFacContiner.cs" />
+    <Compile Include="Infrastructure\Adapter\AutoFacContiner.cs" />
     <Compile Include="Infrastructure\AutoFacRegister\BaseRegister.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Infrastructure\Adatepter\IDiContainer.cs" />
-    <Compile Include="Infrastructure\Adatepter\IDiContainerFactory.cs" />
-    <Compile Include="Infrastructure\Adatepter\IDiRegister.cs" />
+    <Compile Include="Infrastructure\Adapter\IDiContainer.cs" />
+    <Compile Include="Infrastructure\Adapter\IDiContainerFactory.cs" />
+    <Compile Include="Infrastructure\Adapter\IDiRegister.cs" />
     <Compile Include="Infrastructure\AutoFacRegister\CommonRegister.cs" />
     <Compile Include="Infrastructure\AutoFacRegister\RepositoryRegister.cs" />
     <Compile Include="Infrastructure\AutoFacRegister\ServiceRegister.cs">
